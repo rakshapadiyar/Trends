@@ -1,2 +1,2 @@
-# Icons
+# TRENDS
 Fashion Store Website
